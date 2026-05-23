@@ -3,11 +3,9 @@
 
 int main() {
 
-	auto ans = normal_sum(100, 200, 300,600);
+	normal_multiply(2, 3, 4, 5, 6, 7, 8, 9);
 
 	std::vector<int> vec_{ 10,20,30,40,50,60,70,80,90 };
-
-	auto ranges = ranges_sum(vec_);
 
 	return 0;
 }
